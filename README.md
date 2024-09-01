@@ -1,4 +1,4 @@
 "proyecto ramas" 
-"A¤adiendo contenido en la rama nueva-funcionalidad." 
-"Modificaci¢n en la rama principal." 
-"A¤adiendo contenido en la rama nueva-funcionalidad." 
+"Aï¿½adiendo contenido en la rama nueva-funcionalidad." 
+"Modificaciï¿½n en la rama principal." 
+"Aï¿½adiendo contenido en la rama nueva-funcionalidad." 
